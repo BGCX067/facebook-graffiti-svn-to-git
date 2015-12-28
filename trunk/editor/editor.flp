@@ -1,0 +1,7 @@
+﻿<flash_project name="editor" version="1">
+    <project_file path="./Editor.as" filetype="as" />
+    <project_file path="./Canvas.as" filetype="as" />
+    <project_file path="./Actions.as" filetype="as" />
+    <project_file path="./editor.fla" filetype="fla" profile="" />
+    <project_file path="./Toolbar.as" filetype="as" />
+</flash_project>
